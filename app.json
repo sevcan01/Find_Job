@@ -23,8 +23,14 @@
         "backgroundColor": "#ffffff"
       }
     },
+    "scheme": "reactn-jobs",
+    
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
